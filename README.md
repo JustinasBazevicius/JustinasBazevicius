@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Justinas]  
+## 👋 Hi, I'm Justinas
 
 I'm a beginner data analyst passionate about turning data into insights. With a background in client relations and sales, I’ve developed a strong analytical mindset and problem-solving skills. Now, I’m focused on learning SQL, Excel, and data visualization to start my career in data analytics.  
 
