@@ -2,8 +2,8 @@
 
 I'm a beginner data analyst passionate about turning data into insights. With a background in client relations and sales, I’ve developed a strong analytical mindset and problem-solving skills. Now, I’m focused on learning SQL, Excel, and data visualization to start my career in data analytics.  
 
-🔹 **Skills:** SQL | Excel | Data Visualization (Power BI/Tableau)  
-🔹 **Currently Learning:** Advanced SQL, Python for Data Analysis  
+🔹 **Skills:** SQL | Excel | Data Visualization (Power BI)  
+🔹 **Currently Learning:** Python for Data Analysis  
 🔹 **Projects:**  
 - [Sales Data Analysis](https://github.com/JustinasBazevicius/SQL-BigQuery-) - Analyzing sales trends and customer behavior using SQL.  
 - [Sales & Customer Insights Dashboard](https://github.com/JustinasBazevicius/PowerBI) - A Power BI dashboard visualizing monthly sales trends, revenue analysis, and key business metrics.
