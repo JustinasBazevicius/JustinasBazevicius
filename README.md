@@ -6,7 +6,7 @@ I'm a beginner data analyst passionate about turning data into insights. With a 
 🔹 **Currently Learning:** Advanced SQL, Python for Data Analysis  
 🔹 **Projects:**  
 - [Sales Data Analysis](https://github.com/JustinasBazevicius/SQL-BigQuery-) - Analyzing sales trends and customer behavior using SQL.  
-- [Customer Retention Dashboard](#) - A Power BI dashboard showcasing key retention metrics.  
+- [Customer Retention Dashboard](https://github.com/JustinasBazevicius/PowerBI) - A Power BI dashboard showcasing key retention metrics.  
 
 💡 I believe that without data, it’s just an opinion. I'm eager to apply my skills and grow in the field of data analytics.  
 
