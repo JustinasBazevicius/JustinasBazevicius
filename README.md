@@ -14,8 +14,8 @@ I'm a beginner data analyst passionate about turning data into insights. With a 
 💡 I believe that without data, it’s just an opinion. I'm eager to apply my skills and grow in the field of data analytics.  
 
 📫 **Let's connect!**  
-- [LinkedIn](#)  
-- [Email](#)  
+- [LinkedIn](https://www.linkedin.com/in/bazevi%C4%8Dius/) 
+- [Email](justinas.bazevicius@gmail.com)  
 
 
 <!--
