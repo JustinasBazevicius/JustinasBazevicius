@@ -9,13 +9,13 @@ I'm a beginner data analyst passionate about turning data into insights. With a 
 - [Sales & Customer Insights Dashboard](https://github.com/JustinasBazevicius/PowerBI) - A Power BI dashboard visualizing monthly sales trends, revenue analysis, and key business metrics.
 - [Customer Retention & Churn Analysis](https://github.com/JustinasBazevicius/Retention-Cohorts-Churn) - Analyzing user retention and churn rates to uncover insights into customer behavior and subscription trends
 - [Funnel Analysis](https://github.com/JustinasBazevicius/Funnels) - Investigating and addressing bottlenecks in the user journey to enhance conversion rates and reduce friction
-- [Chess Capture Validator](https://github.com/JustinasBazevicius/Chess) - Validating chess moves and identifying capturable pieces using Python
+- [Chess Capture Validator](https://github.com/JustinasBazevicius/Chess) - Analyzing chess board positions to determine which black pieces can be captured by a given white piece using Python
 
 💡 I believe that without data, it’s just an opinion. I'm eager to apply my skills and grow in the field of data analytics.  
 
 📫 **Let's connect!**  
 - [LinkedIn](https://www.linkedin.com/in/bazevi%C4%8Dius/) 
-- [Email](justinas.bazevicius@gmail.com)  
+
 
 
 <!--
